@@ -1,8 +1,4 @@
 from typing import List
-
-from scipy.special import result
-
-
 class Solution:
     def findWords(self, words: List[str]) -> List[str]:
         rows = ["qwertyuiop", "asdfghjkl", "zxcvbnm"]
